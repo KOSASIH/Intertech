@@ -76,7 +76,7 @@ Remember to refer to the documentation specific to the version of the Intertech 
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance the Intertech App. If you're interested in contributing, please follow the guidelines outlined in the CONTRIBUTING.md file. It covers information about code formatting, testing, submitting bug reports, and feature requests.
+We welcome contributions from the open-source community to enhance the Intertech App. If you're interested in contributing, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md) file. It covers information about code formatting, testing, submitting bug reports, and feature requests.
 
 ## License
 
